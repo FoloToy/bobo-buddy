@@ -1,0 +1,5 @@
+FoloToy board support source is MIT licensed. Dependencies retain their original notices.
+Public firmware driver dependency: FoloToy/folotoy-firmware-driver-open-source, pinned in component manifest.
+See docs/PROVENANCE.md for the reviewed source snapshots.
+No private product integrations, binary bundles, credentials or Git history are included.
+folo_ppp_network derives from Espressif network_dce example (Unlicense OR CC0-1.0); file notices retained.
